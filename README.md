@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @GyaneshCodes
-- 👀 I’m interested in becoming the full stack Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me ...
+- 👀 I’m interested in becoming a Data Analyst
+- 🌱 I’m currently learning by building Data Analytics Project
+- 📫 Reach me https://www.linkedin.com/in/gyanesh-data/
 - 😄 Pronouns: Gyanesh
-- ⚡ Fun fact: ...
+
 
 <!---
 GyaneshCodes/GyaneshCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
